@@ -14,8 +14,8 @@
 ## Education
 <ul>
   <li><strong style="color: #1f77b4;">2026.09 – 2030.06</strong>，<strong>中南大学</strong> <br>
-      博士（计划研究医学大数据方向），计算机科学与技术专业<br>
-      导师：安莹教授</li>
+      <strong>博士（计划研究医学大数据方向），计算机科学与技术专业</strong><br>
+      <strong>导师：安莹教授</strong></li>
 
   <li><strong style="color: #1f77b4;">2024.07 – 2026.06</strong>，<strong>湖南工业大学 + 中南大学湘雅医院（国家老年疾病临床医学研究中心与生信中心）</strong><br>
       <strong>硕士（联合培养），“AI+”交叉学科（人工智能 + 生物医学）方向</strong><br>
