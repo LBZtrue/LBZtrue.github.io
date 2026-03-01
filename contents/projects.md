@@ -6,6 +6,7 @@ Postgraduate Scientific Research Innovation Project of Hunan Province，China [L
 Scientific Research Project of Education Department of Hunan Province (Grant no.24A0401). 《生物医学文献解析与智能注释关键技术研究及应用》与中南大学湘雅医院国家老年疾病临床医学研究中心合作项目研究，旨在针对临床医学数据收集、解析、挖掘与评估难题，提供开创式解决方案与一体化项目落地。
 
 <br>
+
 ---
 
 ### **工程项目**  
