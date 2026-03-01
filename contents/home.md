@@ -5,9 +5,7 @@
 ### 湖南工业大学 在读硕士（预计2026.06毕业）
 ### 研究方向：Artificial Intelligence + Biomedicine
 
-### Phone: <code>15032197828</code>
-
-### Email:  <code>lbztrue@163.com</code> | <code>lbztrue8@gmail.com</code> 
+### Phone: <code>15032197828</code>     ### Email:  <code>lbztrue@163.com</code> | <code>lbztrue8@gmail.com</code> 
 <br>
 
 ### 简介
