@@ -111,6 +111,6 @@ section .main-body{
 
 #top-section-bg-text {
     position: relative;
-    top: 2rem; /* 向下移动 2rem */
+    top: 4rem; /* 向下移动 2rem */
 }
 
