@@ -1,4 +1,4 @@
-- Xiang X, Mao X, Luo T, Liu C, Li B, et al. Enhancing interpretation of clinical disease-associated copy number variations from multiple sequencing strategies with CNVSeeker[J]. Bioinformatics, 2026, 42(2): btag034. （CCF-B类期刊，JCR-Q1，中科院3区，if≈5.4，第五作者）<br>
+- Xiang X, Mao X, Luo T, Liu C, Li B, et al. Enhancing interpretation of clinical disease-associated copy number variations from multiple sequencing strategies with CNVSeeker[J]. Bioinformatics, 2026, 42(2): btag034. （CCF-A类期刊，JCR-Q1，中科院3区，if≈5.4，第五作者，文章核心贡献之一调用MedSeeker平台服务）<br>
 DOI: <code>https://doi.org/10.1093/bioinformatics/btag034</code>
 
 - Yuan X, Li B, Liu C, et al. PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition[C]//2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). [S.l.]: IEEE, 2025: 1937-1940. （CCF-B，Short Paper，导师一作，本人二作）<br>
