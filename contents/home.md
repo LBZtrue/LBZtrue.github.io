@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Bozhao Li | 李勃朝</h1>
+<h1 style="color: #1E90FF;">Bozhao Li | 李勃朝</h1>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LBZtrue-blue?logo=github)](https://github.com/LBZtrue)       [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4776--9108-green?logo=orcid)](https://orcid.org/0009-0003-4776-9108)
 

@@ -1,4 +1,4 @@
-### <span style="color: #1E90FF;">**科研项目**</span>  
+### <span style="color: #3948D2;">**科研项目**</span>  
 #### **湖南省研究生科研创新项目（主持，2024-2026）**<br>
 Postgraduate Scientific Research Innovation Project of Hunan Province，China [LXBZZ2024316]. 《基于多任务学习的医学命名实体识别模型研究》数据挖掘模型研究与改进，有效识别复杂任务中多类别实体数据，自动化、可靠化知识挖掘过程，为生物医学文献知识挖掘提供自动化工具支持，并部署应用。
 
