@@ -1,4 +1,4 @@
-### **科研项目**  
+### <span style="color: #1E90FF;">**科研项目**</span>  
 #### **湖南省研究生科研创新项目（主持，2024-2026）**<br>
 Postgraduate Scientific Research Innovation Project of Hunan Province，China [LXBZZ2024316]. 《基于多任务学习的医学命名实体识别模型研究》数据挖掘模型研究与改进，有效识别复杂任务中多类别实体数据，自动化、可靠化知识挖掘过程，为生物医学文献知识挖掘提供自动化工具支持，并部署应用。
 
@@ -9,7 +9,7 @@ Scientific Research Project of Education Department of Hunan Province (Grant no.
 
 ---
 
-### **工程项目**  
+### <span style="color: #1E90FF;">**工程项目**</span>  
 #### **2024-10 至 2026-06 | MedSeeker2.0生物医学垂直领域大模型测评、部署、微调全流程应用落地**
 **项目简介**：MedSeeker2.0在前代的基础上，聚焦于临床基因变异诊断的功能学文献证据挖掘与智能解析任务，立足于多模态大模型的前沿成果，目标是构建基于垂直领域多模态大模型的智能化临床评估证据解读系统。项目包含从通用语言/多模态大模型调研、本地部署、知识库构建、测试与评估到垂直领域数据集构建、微调、平台搭建到落地完整研发。贡献如下：
 
