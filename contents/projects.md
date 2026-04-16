@@ -9,7 +9,7 @@ Scientific Research Project of Education Department of Hunan Province (Grant no.
 
 ---
 
-### <span style="color: #1E90FF;">**工程项目**</span>  
+### <span style="color: #3948D2;">**工程项目**</span>  
 #### **2024-10 至 2026-06 | MedSeeker2.0生物医学垂直领域大模型测评、部署、微调全流程应用落地**
 **项目简介**：MedSeeker2.0在前代的基础上，聚焦于临床基因变异诊断的功能学文献证据挖掘与智能解析任务，立足于多模态大模型的前沿成果，目标是构建基于垂直领域多模态大模型的智能化临床评估证据解读系统。项目包含从通用语言/多模态大模型调研、本地部署、知识库构建、测试与评估到垂直领域数据集构建、微调、平台搭建到落地完整研发。贡献如下：
 
