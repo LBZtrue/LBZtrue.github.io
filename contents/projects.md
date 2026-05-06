@@ -1,12 +1,6 @@
 ### <span style="color: #3948D2;">**科研项目**</span>  
 #### **湖南省研究生科研创新项目（主持，2024-2026，已结题）**<br>
-Postgraduate Scientific Research Innovation Project of Hunan Province，China [LXBZZ2024316]. 《基于多任务学习的医学命名实体识别模型研究》数据挖掘模型研究与改进，有效识别复杂任务中多类别实体数据，自动化、可靠化知识挖掘过程，为生物医学文献知识挖掘提供自动化工具支持，并部署应用。项目资助发表论文成果：
-- Yuan X, Li B, Zhao G, et al. Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction [C]//Medical Image Computing and Computer Assisted Intervention – MICCAI 2025. Cham: Springer Nature Switzerland, 2026: 89-99. （CCF-B 类会议，国际医学图像计算与计算机辅助介入领域顶会，导师一作，本人二作视为一作）
-- Yuan X, Li B, Liu C, et al. PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition [C]//2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Piscataway, NJ: IEEE, 2025: 1937-1940. （CCF-B 类会议，国际生物信息学与生物医学会议，导师与本人共同一作）
-- Yuan X, Kuang J, Hua L, et al. A Novel Single Continuous Shot Multiple Lesions Endoscopy Report Generation [C]//2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Piscataway, NJ: IEEE, 2025: 暂未公开. （CCF-B 类会议，国际声学、语音与信号处理领域顶会，导师一作）
-- Yuan X, Xie S, Zhao G, et al. CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification [C]//21st International Conference on Intelligent Computing (ICIC 2025). Singapore: Springer Nature Singapore, 2025: 393-405. （CCF-C 类会议，智能计算领域国际会议，导师一作）
-- Yuan X, Xie S, Hua L, et al. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval [C]//The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026). Palo Alto, CA: AAAI Press, 2026: 12268-12276. （CCF-A 类会议，人工智能领域国际顶会，导师共同一作）
-- Xie S, Yuan X, Gan W, et al. CCMA: Consistency-Aware Cross-Modal Alignment for Text-Based Person Retrieval [C]//2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). Piscataway, NJ: IEEE, 2026: 13012-13016. （CCF-B 类会议，国际声学、语音与信号处理领域顶会，导师二作）
+Postgraduate Scientific Research Innovation Project of Hunan Province，China [LXBZZ2024316]. 《基于多任务学习的医学命名实体识别模型研究》数据挖掘模型研究与改进，有效识别复杂任务中多类别实体数据，自动化、可靠化知识挖掘过程，为生物医学文献知识挖掘提供自动化工具支持，并部署应用。项目资助发表论文成果共6篇：CCF-A类会议论文1篇（AAAI 2026），CCF-B类会议论文4篇(MICCAI 2025、BIBM 2025、ICASSP 2025/2026)，CCF-C类会议论文1篇（ICIC 2025）。
 
 #### **湖南省教育厅科学研究重点项目（第一参与人，导师主持，2024-2026）**<br>
 Scientific Research Project of Education Department of Hunan Province (Grant no.24A0401). 《生物医学文献解析与智能注释关键技术研究及应用》与中南大学湘雅医院国家老年疾病临床医学研究中心合作项目研究，旨在针对临床医学数据收集、解析、挖掘与评估难题，提供开创式解决方案与一体化项目落地。
