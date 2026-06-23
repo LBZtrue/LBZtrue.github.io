@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LBZtrue-blue?logo=github)](https://github.com/LBZtrue)       [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4776--9108-green?logo=orcid)](https://orcid.org/0009-0003-4776-9108)
 
-### 中南大学，在读博士（全日制）
+### 中南大学 在读博士（全日制）
 ### 研究方向：Artificial Intelligence + Biomedicine
 
 ### Phone: <code>15032197828</code> &emsp; Email:  <code>lbztrue@163.com</code> | <code>lbztrue8@gmail.com</code> 
@@ -22,7 +22,7 @@
   <li><strong style="color: #3948D2;">2024.07 – 2026.06</strong>，<strong>湖南工业大学 + 中南大学湘雅医院（国家老年疾病临床医学研究中心、医学遗传学湖南省重点实验室）</strong><br>
       <strong>硕士（联合培养），人工智能+临床医学</strong><br>
       <strong>导师：袁鑫攀教授、赵贵虎研究员、李津臣教授</strong><br>
-      科研与工作内容：围绕人工智能+临床基因变异致病性评级实现（1）数据挖掘与分析：科学文献自动化采集、版面多模态解析、数据挖掘与分析、可视化报告生成、项目落地与科研产出；（2）多模态大模型：全流程垂直领域多模态大模型调研、测试、微调的科研课题与成果部署应用；（3）交叉学科落地：技术与科研成果落地，服务基于ACMG指南的临床基因变异致病性评级任务，解决传统科研与临床工作任务中数据处理效率低、易出错等问题。担任数据分析师、大模型算法工程师等职位，牵头或参与MedSeeker、CNVSeeker、VarSeeker等数据分析平台开发与科研论文产出。硕士学位论文：《生物医学文献解析与实体识别的研究及应用》。</li>
+      科研与工作内容：围绕人工智能+临床基因变异致病性诊断实现（1）数据挖掘与分析：科学文献自动化采集、版面多模态解析、数据挖掘与分析、可视化报告生成、项目落地与科研产出；（2）多模态大模型：全流程垂直领域多模态大模型调研、测试、微调的科研课题与成果部署应用；（3）交叉学科落地：担任数据分析师和大模型算法工程师，牵头或参与开发 MedSeeker、CNVSeeker、VarSeeker 等平台，解决传统数据处理效率低、易出错等问题，并产出论文，推动交叉学科成果落地。硕士学位论文：《生物医学文献解析与实体识别的研究及应用》。</li>
 
   <li><strong style="color: #3948D2;">2023.09 – 2024.06</strong>，<strong>湖南工业大学，计算机与人工智能学院</strong> <br>
       <strong>硕士，计算机科学与技术专业</strong><br>
