@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LBZtrue-blue?logo=github)](https://github.com/LBZtrue)       [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4776--9108-green?logo=orcid)](https://orcid.org/0009-0003-4776-9108)
 
-### 中南大学 在读博士
+### 中南大学 全日制博士在读
 ### 研究方向：Artificial Intelligence + Biomedicine
 
 ### Phone: <code>15032197828</code> &emsp; Email:  <code>lbztrue@163.com</code> | <code>lbztrue8@gmail.com</code> 
@@ -14,7 +14,7 @@
 
 ## Education
 <ul>
-  <li><strong style="color: #3948D2;">2026.09 – 2030.06</strong>，<strong>中南大学，大数据研究院</strong> <br>
+  <li><strong style="color: #3948D2;">2026.09 – 2030.06</strong>，<strong>中南大学，大数据研究院（医疗大数据应用技术国家工程研究中心）</strong> <br>
       <strong>博士，计算机科学与技术专业</strong><br>
       <strong>导师：安莹教授</strong></li>
       计划研究方向为多模态医学大数据
