@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-LBZtrue-blue?logo=github)](https://github.com/LBZtrue)       [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4776--9108-green?logo=orcid)](https://orcid.org/0009-0003-4776-9108)
 
 ### 中南大学 在读博士（全日制）
-### 研究方向：Artificial Intelligence + Biomedicine
+### 研究方向：Artificial Intelligence + Biomedicine + Big Data
 
 ### Phone: <code>15032197828</code> &emsp; Email:  <code>lbztrue@163.com</code> | <code>lbztrue8@gmail.com</code> 
 <br>
