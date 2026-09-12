@@ -9,5 +9,5 @@ DOI: <code>https://doi.org/10.1007/978-3-032-04971-1_9</code>
 - Xiang X, Mao X, Luo T, Liu C, **Li B**, et al. Enhancing interpretation of clinical disease-associated copy number variations from multiple sequencing strategies with CNVSeeker[J]. Bioinformatics, 2026, 42(2): btag034. （CCF-A类期刊，JCR-Q1，中科院3区，if≈5.4，第五作者，文章核心贡献之一调用MedSeeker平台（MICCAI 2025）文献采集、解析、挖掘与可视化接口服务）<br>
 DOI: <code>https://doi.org/10.1093/bioinformatics/btag034</code>
 
-- Bai Y S, Yu S X, Xia L, Liang X, Meng L Y, Zhao D X, Li T, Li C X, **Li B**, et al. Body fat distribution and aging: Unveiling association and potential intervention strategies[J]. Nutrition, 2026, 143: 113034. （JCR-Q2，中科院3区，IF≈3.0，第九作者）<br>
+- Bai Y S, Yu S X, Xia L, Liang X, Meng L Y, Zhao D X, Li T, Li C X, **Li B Z**, et al. Body fat distribution and aging: Unveiling association and potential intervention strategies[J]. Nutrition, 2026, 143: 113034. （JCR-Q2，中科院3区，IF≈3.0，第九作者）<br>
 DOI: <code>https://doi.org/10.1016/j.nut.2025.113034</code>
