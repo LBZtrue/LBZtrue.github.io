@@ -13,10 +13,10 @@
 
 ## Education
 <ul>
-  <li><strong style="color: #3948D2;">2026.09 – 2030.06</strong>，<strong>中南大学，大数据研究院（医疗大数据应用技术国家工程研究中心）</strong> <br>
+  <li><strong style="color: #3948D2;">2026.09 – 2030.06</strong>，<strong>中南大学，计算机学院（原大数据研究院，医疗大数据应用技术国家工程研究中心）</strong> <br>
       <strong>博士，计算机科学与技术专业</strong><br>
       <strong>导师：安莹教授</strong></li>
-      计划研究方向为多模态医学大数据
+      研究方向为多模态医学大数据
 
   <li><strong style="color: #3948D2;">2024.07 – 2026.06</strong>，<strong>湖南工业大学 + 中南大学湘雅医院（国家老年疾病临床医学研究中心、医学遗传学湖南省重点实验室）</strong><br>
       <strong>硕士（联合培养），人工智能+临床医学</strong><br>
