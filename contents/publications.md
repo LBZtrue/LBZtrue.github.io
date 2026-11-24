@@ -1,5 +1,5 @@
 ### <span style="color: #3948D2;">**本人论文**</span>
-- Yuan X, **Li B**, Liu C, et al. PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition[C]//2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). [S.l.]: IEEE, 2025: 1937-1940. （CCF-B类会议，导师一作，本人二作）<br>
+- Yuan X, **Li B**, Liu C, et al. PBD: A Manually Curated Full-Chain Benchmark Dataset for Evaluating LLMs on ACMG PS3/BS3 Functional Evidence Acquisition[C]//2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). [S.l.]: IEEE, 2025: 1937-1940. （CCF-B类会议，与导师共同一作）<br>
 DOI: <code>https://doi.org/10.1109/BIBM66473.2025.11357115</code>
 
 - Yuan X, **Li B**, Zhao G, et al. Configurable Platform for Biomedical Literature Mining via Multimodal-Driven Extraction[C]//Medical Image Computing and Computer Assisted Intervention – MICCAI 2025. Cham: Springer Nature Switzerland, 2026: 89-99. （CCF-B类会议，国际医学图像计算与计算机辅助介入领域顶会，导师一作，本人二作）<br>
